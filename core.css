@@ -1,0 +1,91 @@
+/************************************* 
+* 웹 폰트 정의
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************* 
+* 초기화 
+*/
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+a:link, a:visited {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************* 
+* Header, Main, Footer 공통 , 뷰포트무관(반응형처리와 무관)
+*/
+
+.header,
+.nhn-main,
+.footer-wrap {
+    width: 100%;
+    margin: auto;
+    /* max-width: 1400px; */
+    min-width: 801px;
+    
+}
+.nhn-main {
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer*/
